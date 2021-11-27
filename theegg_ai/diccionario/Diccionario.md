@@ -5,8 +5,13 @@
 **Arquitectura von neumann**
 **Arquitectura harvard**
 
+# B
+
+**Backend** La programación no visible de un proyecto informático. Generalmente son bases de datos, y el enlace entre estas bases de datos y la parte visible de la app
+
 # C
 
+**Commit** Comando que guarda nuestros cambios en el repo local
 **Compilador** Programa que traduce lenguajes de programación complejos (lenguajes de alto nivel) a lenguaje máquina
 **CSS** Defenderé hasta la muerte que eres un lenguaje de programación
 
@@ -23,9 +28,11 @@
 # F
 
 **Formación en IA**
+**Frontend** La parte visible de un applicativo. Tiene que ser atractivo para el usuario final, además de intuitiva y usable. También aquí es donde aparece la magia.
 
 # G
 
+**Git** Gestor de versiones
 **Github** Es uno de los repositorios cloud en base a Git más populares
 **Guía de IA**
 **Guía de usuario**
@@ -51,6 +58,7 @@
 **Lenguaje de bajo nivel**
 **Lenguaje compilado**
 **Lenguaje interpretado**
+**Lenguaje de programación** Es un lenguage generalmente artificial que permite escribir algoritmos para la resolución de problemas concretos
 **Lenguaje de máquina**
 **Ley de Moore** O Ley de más. Cada cierto tiempo, duplicamos nuestra capacidad de generar procesadores en los ordenadores.
 **Lenguaje de programación**
@@ -63,7 +71,8 @@
 **Php**
 **Programación** El arte de confertir las cosas que hacemos o las que quisieramos hacer en secuencias de instrucciones para que un ordenador pueda procesar, en un algoritmo
 **Puertas lógicas** Si, no. Ahora algunas dicen "quizás"
-**Python**
+**Push** Comando que sube nuestros cambios al repositorio remoto
+**Python** Lenguage de programación multiparadigma, de tipado dinámico y conteo de referencias (importante saberlo para el uso de la memoria de la aplicación). Una característica importante es que utiliza enlace dinámico de métodos.
 
 # R
 
