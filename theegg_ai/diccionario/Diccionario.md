@@ -16,11 +16,19 @@
 
 # E
 
+**Egg, the** Plataforma molona que nos permite aprender IA
+**Empleo** Ya que tienes que tener uno, por lo menos, que te guste un poco
 **Editor de código**
+
+# F
+
+**Formación en IA**
 
 # G
 
-**Githug** Es uno de los repositorios cloud en base a Git más populares
+**Github** Es uno de los repositorios cloud en base a Git más populares
+**Guía de IA**
+**Guía de usuario**
 
 # H
 
@@ -46,6 +54,7 @@
 **Lenguaje de máquina**
 **Ley de Moore** O Ley de más. Cada cierto tiempo, duplicamos nuestra capacidad de generar procesadores en los ordenadores.
 **Lenguaje de programación**
+**LinkedIn** Red Social orientada al perfil laboral
 **Lisp**
 
 # P
