@@ -42,6 +42,7 @@
 # H
 
 **Hardware**
+**Hola Mundo** La primera frase que se suele escribir cuando empiezas a familiarizarte con un nuevo lenguaje
 **HTML** Lenguaje de marcas
 
 # I
@@ -74,6 +75,7 @@
 **Programación** El arte de confertir las cosas que hacemos o las que quisieramos hacer en secuencias de instrucciones para que un ordenador pueda procesar, en un algoritmo
 **Puertas lógicas** Si, no. Ahora algunas dicen "quizás"
 **Push** Comando que sube nuestros cambios al repositorio remoto
+**print()** Función que muestra un mensaje en Python
 **Python** Lenguage de programación multiparadigma, de tipado dinámico y conteo de referencias (importante saberlo para el uso de la memoria de la aplicación). Una característica importante es que utiliza enlace dinámico de métodos.
 
 # R
