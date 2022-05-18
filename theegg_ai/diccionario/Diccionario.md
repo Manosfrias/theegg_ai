@@ -24,6 +24,8 @@
 **Egg, the** Plataforma molona que nos permite aprender IA
 **Empleo** Ya que tienes que tener uno, por lo menos, que te guste un poco
 **Editor de código**
+**Ética** Conjunto de normas que nos ayuda a comportarnos correctamente en sociedad
+**Explicabilidad** En relación a la IA, la capacidad que deben de tener los logaritmos para ser entendibles por los seres humanos
 
 # F
 
@@ -78,6 +80,7 @@
 
 **R**
 **Raspberry pi** Permite crear ordenadores!
+**Regulación IA** Reglas que nos permitirán unas IAs éticas, puesto que estas tendrán un impacto real en nuestras vidas.
 **Repositorio de control de versiones** Es un espacio que nos permite guardar nuestro proyecto con la ventaja de que lleva un track de los cambios que vamos haciendo.
 
 # S
@@ -85,6 +88,7 @@
 **SQL** Lenguaje para trabajar con bases de datos
 **Sistema operativo**
 **Software**
+**Sostenibilidad**
 
 # T
 
